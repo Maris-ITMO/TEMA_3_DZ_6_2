@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\TEMA_3_DZ_6_2.dll"</Assembly>
+		<AddInId>0CBA4532-CED8-4817-A350-0201D9621224</AddInId>
+		<FullClassName>TEMA_3_DZ_6_2.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>DZ_6_2_Расстановка элементов *Мебель*</Text>
+	</AddIn>
+</RevitAddIns>
